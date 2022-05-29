@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction-using-Confusion-metrix
+# Heart-Disease-Prediction-using-Confusion-matrix
